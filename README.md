@@ -3,7 +3,7 @@
 ## Introduction
 This is a Web Application meant for interactively visualizing the K-means clustering algorithm. The purpose is to showcase the strengths and limitations of the method under different settings (data shape, size, number of clusters, number of centroids, initialization method etc.).
 
-Here is the link to the video demo: ![Video](https://drive.google.com/drive/folders/1MdHAiXzoCKFRWN0T3f3rEg5lObMe6sY-?usp=share_link)
+Here is the link to the video demo: [video](https://drive.google.com/drive/folders/1MdHAiXzoCKFRWN0T3f3rEg5lObMe6sY-?usp=share_link)
 
 ## Preview
 Here is a screenshot of the application :
