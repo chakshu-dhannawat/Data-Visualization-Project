@@ -6,7 +6,7 @@ This is a Web Application meant for interactively visualizing the K-means cluste
 ## Preview
 Here is a screenshot of the application :
 
-![alt text](assets/Application_Preview.png)
+![alt text](assets/Application_Preview.png.png)
 
 ## How to run
 In order to run the application, first clone the repository, then install the required packages using the Requirements.txt. In order to do so, run the following code in your command-line (from within the application's folder) :
